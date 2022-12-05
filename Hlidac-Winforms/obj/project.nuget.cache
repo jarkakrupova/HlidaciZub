@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "L64ZZlCGFnZOw/O7m302OS9lcFBCeCyrx9V0wnxFqySceqNesPjlMvnM3Njo61402pd6O8fLLO6ZHD20NDTbgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarkr\\source\\repos\\HlidaciZub\\Hlidac-Winforms\\Hlidac-Winforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarkr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jarkr\\.nuget\\packages\\selenium.support\\4.6.0\\selenium.support.4.6.0.nupkg.sha512",
+    "C:\\Users\\jarkr\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\jarkr\\.nuget\\packages\\selenium.webdriver.chromedriver\\107.0.5304.6200\\selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512",
+    "C:\\Users\\jarkr\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
